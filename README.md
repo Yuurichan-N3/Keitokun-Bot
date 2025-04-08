@@ -99,7 +99,7 @@ Sebelum memulai, pastikan Anda memiliki:
 ---
 
 ## 📂 Struktur File
-- `index.js`: Script utama
+- `bot.js`: Script utama
 - `accounts.json`: File input berisi data akun (harus dibuat manual)
 - `proxy.txt`: File input berisi daftar proxy (opsional, harus dibuat manual)
 - `README.md`: Dokumentasi ini
